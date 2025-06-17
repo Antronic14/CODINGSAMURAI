@@ -1,0 +1,23 @@
+const mediaqueries=`@media (min-width: 768px) {
+  .desktop-nav {
+    display: flex;
+  }
+  .mobile-menu {
+    display: none;
+  }
+  .skills-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .certifications-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .project-header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .hero-title {
+    font-size: 3.75rem;
+  }
+}
+`;
