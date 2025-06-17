@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "HTML"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "CSS"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "JavaScript"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "React.js"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Node.js"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "Redux.js"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Node.js"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "Express.js"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "MongoDB"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "Coding"
+    }
+  ]
+}
